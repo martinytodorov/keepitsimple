@@ -5,7 +5,10 @@
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	    <meta name="description" content="Keep it simple is a small php framework that helps you build small websites which don't have that much dynamic content.">
 	    <meta name="author" content="New Generation Arts">
-	    <link rel="shortcut icon" href="<?php echo URI ?>images/favicon.png">
+		
+	    <link rel="shortcut icon" href="<?php echo URI ?>/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="<?php echo URI ?>/favicon.ico" type="image/x-icon">
+
 	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 	
 	    <title>Keep it simple - Simple framework for simple websites</title>
