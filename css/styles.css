@@ -116,7 +116,7 @@ h3
 	display:block;
 }
 
-.main-menu > a:link
+a:link
 {
 	margin-left:10px;
 	margin-right:10px;
@@ -124,26 +124,26 @@ h3
 	color:#239620;
 }
 
-.main-menu > a:active
+a:active
 {
 	color:#454545;
 	text-decoration:none;
 }
 
 
-.main-menu > a:visited
+a:visited
 {
 	color:#239620;
 	text-decoration:none;
 }
 
-.main-menu > a:hover
+a:hover
 {
 	color:#454545;
 	text-decoration:underline;
 }
 
-.main-menu > a:first-child
+a:first-child
 {
 	margin-left:0px;
 }
